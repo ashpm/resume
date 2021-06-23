@@ -13,20 +13,9 @@
       "city": "London",
       "countryCode": "GB"
     },
-    "profiles": [{
-      "network": "Twitter",
-      "username": "aejb_",
-      "url": "http://twitter.com/aejb_"
-    },
-    {
-      "network": "GitHub",
-      "username": "aejb",
-      "url": "http://github.com/aejb"
-    }]
-  },
   "work": [{
     "company": "Royal Holloway Students Union",
-    "position": "Tech and Events",
+    "position": "Tech and Events Supervisor",
     "website": "https://www.su.rhul.ac.uk/",
     "startDate": "2019-10-01",
     "summary": "Maintaining and operating the sound and lighting equipment at the Royal Holloway SU, across the two nightclub venues.",
@@ -37,7 +26,7 @@
   }],
   "volunteer": [{
     "organization": "Royal Holloway Computing Society",
-    "position": "Events Officer",
+    "position": "President",
     "website": "http://cmpsc.uk/",
     "startDate": "2020-07-01",
     "summary": "Volunteering to help organise and run events safely, especially with COVID-19 compliance, at Royal Holloway, for the Computing Society.",
@@ -48,13 +37,14 @@
   {
     "organization": "Discord Moderator Academy",
     "position": "Community Editor",
-    "website": "http://dis.gd/dma100",
+    "website": "http://dis.gd/dma",
     "startDate": "2020-08-05",
-    "summary": "Working with Discord staff and over 20 contributors to proofread community-written articles for DMA, a resource for volunteer community moderators",
+    "endDate": "2021-06-01",
+    "summary": "Worked with Discord staff and over 20 contributors to proofread community-written articles for DMA, a resource for volunteer community moderators",
     "highlights": [
-      "Organising a large team across the full range of timezones",
-      "Liasing between staff and volnunteers",
-      "Helping to keep articles to a consistent style and tone guide"
+      "Organised a large team across the full range of timezones",
+      "Liaised between staff and volnunteers",
+      "Helped to keep articles to a consistent style and tone guide"
     ]
   },
   {
@@ -62,10 +52,12 @@
     "position": "Volunteer Community Moderator",
     "website": "http://discord.com/",
     "startDate": "2018-09-12",
-    "summary": "Working with various employee teams at Discord to help moderate their official communities and platforms.",
+    "endDate": "2021-06-01"
+    "summary": "Worked with various employee teams at Discord to help moderate their official communities and platforms.",
     "highlights": [
-      "Moderating the community subreddit",
-      "Helping moderate pop-up event servers for charity drives, often reaching 10s of thousands of users within hours"
+      "Moderated the community subreddit",
+      "Helped moderate pop-up event servers for charity drives, often reaching 10s of thousands of users within hours",
+      "Worked with a wide variety of brands and online influencers to build and grow their Discord communities, and develop specialised tooling"
     ]
   }],
   "education": [{
@@ -117,8 +109,5 @@
   "languages": [{
     "language": "English",
     "fluency": "Native speaker"
-  }],
-  "interests": [{
-    "name": "Wildlife"
   }]
 }
